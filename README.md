@@ -3,6 +3,11 @@ A repository for publicly-shareable code
 
 Contents:
 
+## An Analysis on Completing a Marathon
+- A Python model on calculating a runner profile (health, training, nutrition) and factoring as variables for completing a marathon (includes estimated result)
+- Folder: marathon/MarathonAnalysis.ipynb
+- Source: https://github.com/acary/public-octo-guacamole/blob/master/marathon/MarathonAnalysis.ipynb
+
 ## Scripts
 - networks_gather_cidr.py: Python script that reads a results file from a zmap scan to look up and write network hosts to a text file for further processing.
 
